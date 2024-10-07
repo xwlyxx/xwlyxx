@@ -27,5 +27,7 @@ Em andamento...
 ### Informações de contato
 
 E-mail: pereira.wleite@gmail.com
+
 Discord: xwlyx
+
 Reddit: u/xwlyx_
