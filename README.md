@@ -12,11 +12,9 @@
 
 ### Me conheça
 
-° Tenho como meta me tornar um desenvolvedor FullStack, com especialidade principalmente em Back-End.
 
 ° Tenho conhecimentos de Html, Css, Javascript e C++.
 
-° Procuro trabalhos Freelancer ou Remoto.
 
 ### Projetos
 
